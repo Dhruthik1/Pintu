@@ -1,1 +1,2 @@
-# Pintu
+print("hi im dhruthik")
+#byeeee
